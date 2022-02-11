@@ -19,7 +19,7 @@
 ## Project Description
 
 <p align="justify">
-  This project used HTML and CSS to clone Netflix front. I used the following code for background: background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50),100%),url('/img/capa-do-filme.jpg')
+  This project used HTML and CSS to clone Netflix front end. I used the following code for background: background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50),100%),url('/img/capa-do-filme.jpg')
 </p>
  
 ## Prerequisites
