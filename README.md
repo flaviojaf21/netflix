@@ -1,6 +1,7 @@
 ##  DIO's Netflix
 
-[![made-with-HTML-CSS](https://img.shields.io/badge/HTML-HTML-green)(https://img.shields.io/badge/CSS-CSS-green)
+[![made-with-HTML](https://img.shields.io/badge/HTML-HTML-green)
+[![made-with-CSS](https://img.shields.io/badge/CSS-CSS-green)
 ![license-MIT](https://img.shields.io/badge/license-MIT-green)
 
 ### Topics
