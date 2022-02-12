@@ -55,5 +55,9 @@ Copyright :copyright:2021 - DIO's Nexflix
 
 Made by Flavio Ferreira 👋🏽 [Contact!](https://www.linkedin.com/in/flaviojaf21/)
 
+Reference of the project DIO [^1]
 
-[bootstrap]: https://getbootstrap.com/
+Footnotes
+=========
+
+[^1]: https://github.com/felipeAguiarCode/netflix-clone
